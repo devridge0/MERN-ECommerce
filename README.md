@@ -2,7 +2,7 @@
 
 It is a MERN stack e-commerce application that will simulate a real-world e-commerce application.
 
-The project mainly built with Node.js(TypeScript), Express, MongoDB for the backend and React, TypeScript, Vite, Vitest, TailwindCSS for the frontend.
+The project mainly built with Node.js(TypeScript), Express, MongoDB for the backend and React, TypeScript, Vite, TailwindCSS for the frontend.
 
 It will allow users to:
 
